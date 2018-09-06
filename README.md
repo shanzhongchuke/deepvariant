@@ -1,0 +1,2 @@
+# deepvariant
+FROM gcr.io/deepvariant-docker/deepvariant@sha256:037a3290d0e7cfe5c822a95ffb49bfc6dc6b01b8be1e749a4bd8da09d1ee5ca4
